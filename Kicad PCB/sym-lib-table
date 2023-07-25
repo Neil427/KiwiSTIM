@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KiwiStim0.3-rescue")(type "KiCad")(uri "${KIPRJMOD}/KiwiStim0.3-rescue.kicad_sym")(options "")(descr ""))
+)
